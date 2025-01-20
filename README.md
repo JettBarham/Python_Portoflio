@@ -1,3 +1,3 @@
 # Python_Portoflio
 
-/* test */
+# This repository stores my python projects. Each project has its own folder.
